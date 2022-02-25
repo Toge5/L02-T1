@@ -1,0 +1,6 @@
+etu = input('Anna etunimi: ')
+suku = input('Anna sukunimi: ')
+print(f'Nimeni on {suku}, {etu} {suku}.')
+sana1 = input('Anna sana: ')
+sana2 = input('Anna toinen sana: ')
+print(f'sanoista tulee yhdyssana {sana1+sana2}')
